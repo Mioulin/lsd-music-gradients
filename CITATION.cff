@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "LSD + Music: Gradient-Based fMRI Analysis (repo)"
+authors:
+  - family-names: "YourSurname"
+    given-names: "YourName"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: "2025-08-13"
+version: "0.1.0"
+license: "MIT"
+repository-code: "https://github.com/<your-username>/lsd-music-gradients"

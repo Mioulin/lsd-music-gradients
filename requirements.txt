@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+scikit-learn
+networkx
+nibabel
+nilearn
+brainspace
+typer
+matplotlib
+pytest
+black
+ruff
+pre-commit
+mkdocs
+mkdocs-material

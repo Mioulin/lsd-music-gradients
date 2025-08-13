@@ -1,0 +1,6 @@
+site_name: LSD + Music: Gradient-Based fMRI
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Methods: methods.md
